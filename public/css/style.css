@@ -1,0 +1,42 @@
+:root {
+ --font-family-sans: 'Helvetica', 'Arial', serif;
+ --font-family-serif: 'Georgia', 'Times', 'Times New Roman', serif;
+}
+
+body {
+  margin: 0;
+  position: relative;
+  background-color: #dedede;
+  font-family: var(--font-family-serif);
+  font-size: 16px;
+  color: #14050B;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+section {
+  margin: 50px auto;
+  width: 85%;
+  max-width: 640px;
+}
+
+/* TEXT STYLES */
+p, li {
+  font-size: 1em;
+  line-height: 1.6rem;
+}
+h1 {
+    font-family: var(--font-family-sans);
+    font-size: 3rem;
+    line-height: 1em;
+    font-weight: 600;
+    margin: 2rem auto;
+}
+h2 {
+  font-family: var(--font-family-sans);
+  font-size: 1.8rem;
+  line-height: 2rem;
+  font-weight: 700;
+}
+a:link {
+  transition: 0.5s ease;
+}
