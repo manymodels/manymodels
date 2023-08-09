@@ -36,10 +36,10 @@ h2 {
   font-weight: 700;
 }
 h1 {
-  margin: auto;
+  margin: 4rem auto;
   color: #ffffff;
   font-family: 'Handjet', sans-serif;
-  font-size: 6rem;
+  font-size: 4rem;
   font-weight: 200;
   text-align: center;
   transform: scaleX(var(--scale, 1));
