@@ -1,5 +1,5 @@
 :root {
- --font-family-sans: 'Titillium Web', 'Helvetica', 'Arial', serif;
+ --font-family-sans: 'Inconsolata', 'Arial', 'Helvetica', 'Arial', serif;
  --font-family-serif: 'EB Garamond', 'Georgia', 'Times', 'Times New Roman', serif;
 }
 
@@ -30,10 +30,13 @@ a:link {
 
 
 h2 {
-  font-family: var(--font-family-sans);
-  font-size: 2rem;
+  font-family: 'Inconsolata';
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 1.8rem;
   line-height: 2rem;
-  font-weight: 700;
+  text-align: center;
+  margin: 3rem auto 1rem;
 }
 h1 {
   margin: 4rem auto;
@@ -73,22 +76,23 @@ h1 {
     clip-path: polygon(0% var(--t-cut), 100% var(--t-cut), 100% var(--b-cut), 0% var(--b-cut));
   } 
   
-  &::before {
+  /* &::before {
     animation: glitch-b 1.7s infinite alternate-reverse;
   }
   &::after {
     animation: glitch-a 3.1s infinite alternate;
-  }
+  } */
 }
 
 @keyframes glitch-h1 {
-  17% { --scale: .87; }
-  31% { --scale: 1.1; }
-  37% { --scale: 1.3; }
-  47% { --scale: .91; }
-  87% { --scale: 1; }
+  17% { --scale: .87; font-family: 'Inconsolata'; font-style: normal; }
+  31% { --scale: 1.1; font-family: 'Cutive Mono'; font-style: normal; }
+  37% { --scale: 0.9; font-family: 'Barriecito'; font-style: normal; }
+  47% { --scale: 1.2; font-family: 'Handjet'; font-style: normal; }
+  87% { --scale: 0.8; font-family: 'EB Garamond'; font-style: italic; }
 }
 
+/*
 @keyframes glitch-a {
   10%,30%,50%,70%,90% {
     --top: 0;
@@ -155,3 +159,4 @@ h1 {
     --top: 1;
   }
 }
+*/
