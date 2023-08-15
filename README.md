@@ -15,3 +15,7 @@ Currently, our research questions are organized into three “layers”:
 These layers should not be treated as a specification for many models; for the moment, they are simply ways of organizing research questions.
 
 Note: we do *not* assume that many models are better than few models or one model, but we are committed to exploring and building up the value of many models.
+
+# License
+
+The work in this repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).
