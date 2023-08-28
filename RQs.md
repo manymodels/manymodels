@@ -1,3 +1,6 @@
+
+If you're reading this on GitHub, consider clicking the "3 lines" button in the top right for a nice interactive outline / table of contents!
+
 # RQs.md
 
 This document lays out potential research questions (RQs) involved in the many models research program.
@@ -11,6 +14,7 @@ We currently organize RQs into a number of “layers”:
 - a world layer, covering applications, processes, and institutions through which data is generated and then published on the internet
 
 _These layers should not be treated as a specification or architectural commitment by the research community. For the moment, they are simply ways of organizing research questions._
+
 
 
 # Model layer
