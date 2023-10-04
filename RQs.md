@@ -147,6 +147,13 @@ Assuming the above questions are answered and new techniques for schemas, linkag
 
 Tags: meta
 
+## Data value tracing
+
+In a many models setting, how can we compute the value of a data point? Cf. the attribution problem for a single model, related to data compression-based approaches to analyzing learning. Now, suppose we wanted to compute some synthetic value for a data point based on the value of that data point attributed to many models. One could argue that a “many models” approach could provide rich, multi-dimensional values. But how do we make this work in practice?
+
+See e.g. work on model and dataset multiplicity
+
+Tags: data, attribution
 
 # World layer
 
@@ -213,18 +220,6 @@ How can we balance existing incentives around peer production-style contribution
 Tags: data, incentives, peer production, labor
 
 
-# RQs not obviously in any layer
-
-
-## Data value tracing
-
-In a many models setting, how can we compute the value of a data point? Cf. the attribution problem for a single model, related to data compression-based approaches to analyzing learning. Now, suppose we wanted to compute some synthetic value for a data point based on the value of that data point attributed to many models. One could argue that a “many models” approach could provide rich, multi-dimensional values. But how do we make this work in practice?
-
-See e.g. work on model and dataset multiplicity
-
-Tags: data, attribution
-
-
 ## Many Platforms vs. Many Models
 
 It seems reasonable to imagine that centralization of online platforms might impact the viability of many models. But does it? In other words, does decentralization of _platforms_ beget decentralization of _models_ themselves?
@@ -233,13 +228,14 @@ If I want a world of Many Models, should I invest more effort in improving Stack
 
 Tags: meta, platform economics. 
 
+# RQs not obviously in any layer
+
 
 ## Many models vs. one model: research questions
 
 What research questions are most comparatively useful for many models versus one model?
 
 Tags: meta
-
 
 ## Questions about “few models”
 
