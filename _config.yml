@@ -2,10 +2,6 @@ theme: minima
 title: Many Models
 description: A research program
 
-author:
-  name: Joshua Tan and Nicholas Vincent
-  email: joshua.z.tan@gmail.com
-
 # Theme-specific settings
 
 minima:
