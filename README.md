@@ -13,9 +13,7 @@ Currently, our research questions are organized into three “layers”:
 - a world layer, covering applications, processes, and institutions through which data is generated and then published on the internet
 
 # Contributing 
-This research project is intended to coordinate a group of researchers in AI, machine learning, computer science, and related fields. Please use GitHub pull requests to add or edit content; this will also be how we assign credit for contributions. You can also directly contact the maintainers.
-
-To provide feedback on the project, please use GitHub discussions.
+This research project is intended to coordinate a small group of researchers in AI, machine learning, computer science, and related fields. Please use GitHub pull requests to add or edit content; this will also be how we assign credit for contributions. You can also directly contact the maintainers.
 
 # Norms
 Many models is a *technical research program* intended to improve our understanding of many models. Some of these improvements may entail or suggest overt changes to the political economy of certain industries and of the internet, especially proposals in the data and world layers. While we acknowledge these politics, we believe that progress in both the political mission and the technical research program will be faster if the two efforts are clearly distinguished and organized separately.
