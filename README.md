@@ -1,8 +1,8 @@
 _tl;dr_ Many communities benefit from a world with many AI models. Let's do research, write specifications, and build software in order to make that world more likely.
 
-**Many models** describes a world with many AI models, including the large private models extant today as well as open-source models, public models, foundation models, narrow models, large language models, text-to-image models, and models running on edge or decentralized infrastructure.
+**Many models** describes a world with many pre-trained AI models, including the large private models extant today as well as open-source models, public models, foundation models, narrow models, large language models, text-to-image models, and models running on edge or decentralized infrastructure.
 
-Many models is also an **open research program** intended to explore, specify, and build infrastructure for a world of many models. Currently, the main content of this repository is a set of [research questions](./RQs.md). These questions span transfer learning, metalearning, ensemble methods, differentiable games, computational learning theory, ML engineering, ML ops, data engineering, data mining, data integration, networking, cryptography, and protocol design, as well as data licensing, data governance, AI governance, and institutional design.
+Many models is also an **open research program** intended to explore, specify, and build infrastructure for a world of many models.
 
 # In this repo
 This repository organizes a research program, including [research questions](./RQs.md) and a (soon-to-come) regular research seminar.
