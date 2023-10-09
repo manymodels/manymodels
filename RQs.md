@@ -1,7 +1,4 @@
-
-If you're reading this on GitHub, consider clicking the "3 lines" button in the top right for a nice interactive outline / table of contents!
-
-# RQs.md
+# Research Questions
 
 This document lays out potential research questions (RQs) involved in the many models research program.
 
