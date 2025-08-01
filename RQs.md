@@ -1,4 +1,8 @@
-# Research Questions
+---
+title: Research Questions
+layout: page
+description: Research questions about many models.
+---
 
 This document lays out potential research questions (RQs) involved in the many models research program.
 
